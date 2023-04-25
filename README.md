@@ -25,11 +25,21 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
   <br>
   <br>
- 
+      
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+  </kbd>
+  <br>
+  <br>
+      
 <!--   <kbd>
     <kbd>Version Control & CI/CD</kbd>
     <br>
@@ -60,6 +70,13 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" />
     <img width="30px" src="https://img.icons8.com/color/30/windows-10.png" />
+  </kbd>
+  <kbd>
+    <kbd>Scrum</kbd>
+      <br>
+      <br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   </kbd>
 <!--   <kbd>
     <kbd>Networking</kbd>
